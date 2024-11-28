@@ -24,4 +24,4 @@ Ce projet m'a permis d'approfondir ma compréhension du langage C, de la gestion
 
 Clone ce dépôt pour tester ou utiliser cette implémentation :
 
-    git clone https://github.com/toniouu/ft_printf.git
+    git clone https://github.com/toniouu/Ft_printf.git
