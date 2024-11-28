@@ -6,7 +6,7 @@ ft_printf
 DESCRIPTION
 
 
-    Ce projet consiste à recréer la fonction printf standard de la bibliothèque C, avec la gestion des formats de base comme %d, %s, %x, ainsi que d'autres options avancées. L'objectif est de comprendre le fonctionnement interne de la gestion des chaînes, de la gestion mémoire et de l'impression des types de données en C.
+   Ce projet consiste à recréer la fonction printf standard de la bibliothèque C, avec la gestion des formats de base comme %d, %s, %x, ainsi que d'autres options avancées. L'objectif est de comprendre le fonctionnement interne de la gestion des chaînes, de la gestion mémoire et de l'impression des types de données en C.
 
 
 FONCTIONNALITES
