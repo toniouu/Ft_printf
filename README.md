@@ -23,7 +23,7 @@ POURQUOI CE PROJET ?
 
 Ce projet m'a permis d'approfondir ma compréhension du langage C, de la gestion de la mémoire, ainsi que de la manipulation des chaînes et des pointeurs. Il m'a également permis d'apprendre à utiliser les variables variadiques (avec stdarg.h), un concept essentiel pour gérer des fonctions qui acceptent un nombre variable d'arguments. J'ai aussi acquis des compétences sur l'optimisation de fonctions et sur la gestion des erreurs dans un environnement à faible niveau.
 
-INSTALLATION
+
 
 Clone ce dépôt pour tester ou utiliser cette implémentation :
 
